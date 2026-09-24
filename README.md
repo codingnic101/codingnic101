@@ -16,8 +16,11 @@ Whether you're in a **coding bootcamp, college course, or learning on your own**
 
 ### CodingNC
 
+The **[CodingNC GitHub Organization](https://github.com/codingnc)** provides the projects, challenges, and resources learners use throughout their journey.
+
 **Learn. Build. Get stuck. Get help. Keep going.**
 
-[Visit CodingNC →](https://www.codingnic.com/login)
+🌐 [Visit CodingNC →](https://www.codingnic.com/login)
+💻 [Explore the CodingNC GitHub Organization](https://github.com/codingnc)
 
 ---
