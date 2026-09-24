@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm the person behind CodingNC
 
-<!--
-**codingnic101/codingnic101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building **CodingNC** to help aspiring developers become better at building software - not by learning alone, but by having guidance and support throughout the journey.
 
-Here are some ideas to get you started:
+Whether you're in a **coding bootcamp, college course, or learning on your own**, the goal is simple:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **Help you keep moving when you get stuck.**
+
+### What I'm building
+
+💻 Hands-on learning through real projects  
+🧭 Guidance when you don't know what to do next  
+🆘 One-on-one support when you're stuck  
+🤖 Teaching developers how to use AI effectively  
+🚀 Helping learners turn knowledge into real-world skills
+
+### CodingNC
+
+**Learn. Build. Get stuck. Get help. Keep going.**
+
+[Visit CodingNC →](https://www.codingnic.com/login)
+
+---
