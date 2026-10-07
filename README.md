@@ -1,26 +1,28 @@
 # 👋 Hi, I'm the person behind CodingNC
 
-I'm building **CodingNC** to help aspiring developers become better at building software - not by learning alone, but by having guidance and support throughout the journey.
+I created **CodingNC** because I believe you shouldn't have to learn to code alone.
 
-Whether you're in a **coding bootcamp, college course, or learning on your own**, the goal is simple:
+Whether you're in a **coding bootcamp, college course, or learning on your own**, sometimes you just need someone to help you understand what's going wrong, figure out what to do next, or work through a problem with you.
 
-> **Help you keep moving when you get stuck.**
+That's what CodingNC is here for.
 
-### What I'm building
+### What CodingNC offers
 
-💻 Hands-on learning through real projects  
-🧭 Guidance when you don't know what to do next  
-🆘 One-on-one support when you're stuck  
-🤖 Teaching developers how to use AI effectively  
-🚀 Helping learners turn knowledge into real-world skills
+💻 Practical coding projects  
+🧭 Guidance throughout your learning journey  
+🆘 One-on-one coding help  
+🤖 Help learning to use AI effectively as a developer  
+🚀 Support turning knowledge into real-world skills
 
-### CodingNC
+### Want to try it?
 
-The **[CodingNC GitHub Organization](https://github.com/codingnc)** provides the projects, challenges, and resources learners use throughout their journey.
+**🎓 [Book a Free 30-Minute Lesson](https://codingnic.com/book)**
 
-**Learn. Build. Get stuck. Get help. Keep going.**
+Bring a coding problem, project, or question. We'll work through it together.
 
-🌐 [Visit CodingNC →](https://www.codingnic.com/login)
-💻 [Explore the CodingNC GitHub Organization](https://github.com/codingnc)
+**You don't have to learn to code alone.**
+
+🌐 [Visit CodingNC](https://codingnic.com)  
+💻 [Explore CodingNC on GitHub](https://github.com/codingnc)
 
 ---
